@@ -1,0 +1,180 @@
+body {
+	padding: 0px;
+	margin:0px;
+	font-family: 'Libre Franklin', sans-serif;
+}
+
+h1 {
+	margin: 0px;
+	font-size: 65px;
+	color: #333333;
+}
+
+.header {
+	max-width: 2550px;
+	width: 100%;
+	display: flex;
+
+
+}
+.p {
+	
+	margin-top: 0px;
+	margin-bottom: 40px;
+	color: #a9a9a9;
+	line-height: 20px;
+	font-weight: 400;
+}
+
+.menu {
+	text-align: center;
+	max-width: 1300px;
+	width: 50%;
+	padding-top: 16%;
+	padding-bottom: 20%;
+	font-weight: 700;
+
+  }
+
+.btn {
+	font-size: 14px;
+	
+	border-radius: 100px;
+	color: #fff;
+	text-decoration: none;
+	background-color: #222222;
+	padding: 11px 28px;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: 700;
+}
+
+.btn:Hover {
+	opacity: 0.9;
+}
+.foto {
+	background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/disp/558c8881183131.5cf79632c78a9.jpg);
+	background-position: center center;
+	background-repeat: no-repeat;
+    background-size: cover;
+	max-width: 1300px;
+	width: 50%;
+
+}
+ .icons {
+ 	margin-top: 50px;
+ 	margin-bottom: 50px;
+ }
+
+ .i {
+ 	margin-left: 5px;
+ 	margin-right: 5px;
+ 	color: black;
+ 	font-size: 16px;
+ 	background: #e8e8e8;
+    padding: 6px;
+    border-radius: 17px;
+ }
+
+ .i:hover {
+ 	background: #d8d8d8;
+ }
+
+
+
+
+
+ .space {
+	max-width: 1300px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.bea {
+	margin-top: 135px;
+}
+
+.beauty {
+	text-align: center;
+	color: #333333;
+	font-size: 35px;
+}
+
+.text {
+	font-size: 17px;
+	line-height: 25px;
+	text-align: center;
+	font-family: 'Ubuntu', sans-serif;
+}
+
+.befors {
+	width: 590px;
+	margin-left: 40px;
+
+
+}
+
+.befors2 {
+	width: 590px;
+	margin-right: 40px;
+
+}
+
+.heds {
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 50px;
+}
+
+.onefoto {
+	max-width: 1220px;
+	width: 100%;
+	margin: 0 auto;
+	margin-top: 50px;
+	margin-bottom: 40px;
+	
+}
+
+.aboutwork {
+	display: flex;
+	
+	justify-content: space-between;
+	background: #f2f2f2;
+	width: 1220px;
+	margin: 0 auto;
+	margin-bottom: 50px;
+
+
+}
+
+.befores {
+	width: 590px;
+
+}
+.position {
+	margin-top: 220px;
+}
+
+.ul {
+
+	color: #333333;
+	font-size: 17px;
+	margin-top: 50px;
+	margin-left: 30px;
+
+}
+
+.text2 {
+	text-align: center;
+	font-size: 17px;
+	font-family: 'Ubuntu', sans-serif;
+	line-height: 26px;
+	font-weight: 400;
+	width: 500px;
+	margin: 0 auto;
+	margin-top: 60px;
+
+	
+}
+
+
+
